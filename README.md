@@ -2,7 +2,8 @@
 
 Learn to Count - Educational Game with Unity and Augmented Reality
 This project is developed with the aim of teaching preschool children how to count in a fun and interactive way using Unity and Augmented Reality technologies.
-
+![Projemizin Logo Resmi](oyun1.png)
+![Projemizin Logo Resmi](oyun2.png)
 Key Features
 Virtual Park Environment: Provides a live 3D environment with children playing in the park, their families, and a balloon vendor.
 Counting with Balloons: Children can learn to count by moving the balloons held by the balloon vendor.
